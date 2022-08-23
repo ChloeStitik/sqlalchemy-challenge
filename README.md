@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-Unit 10 Homework: Surf’s Up
+# Unit 10 Homework: Surf’s Up
 
 ## Before You Begin
 
@@ -10,6 +10,8 @@ Unit 10 Homework: Surf’s Up
 3. Add your Jupyter notebook and `app.py` to this folder. These will be the main scripts to run for analysis.
 
 4. Push the changes to GitHub or GitLab.
+
+![surfs-up.png](Images/surfs-up.png)
 
 ## Instructions
 
