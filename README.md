@@ -1,8 +1,6 @@
 # sqlalchemy-challenge
 Unit 10 Homework: Surf’s Up
 
-![surfs-up.png](Images/surfs-up.png)
-
 ## Before You Begin
 
 1. Create a new repository for this project called `sqlalchemy-challenge`. **Do not add this homework to an existing repository**.
